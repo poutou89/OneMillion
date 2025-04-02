@@ -7,8 +7,8 @@ module.exports = {
         newcolor: '#F74C3C',
     },
       fontFamily: {
-        body: ['arvo'],
-        titre: ['helvetica neue']
+        body: ['helvetica neue'],
+        titre: ['arvo']
       }
   },
   plugins: [],
